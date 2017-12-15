@@ -5,7 +5,7 @@ using namespace std;
 int main () {
 
     // Local variable declaration:
-    int a = 10;
+    int a = 0;
 
     // while loop execution
     while( a < 3 ) {
